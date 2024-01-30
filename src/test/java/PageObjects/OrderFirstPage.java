@@ -1,6 +1,6 @@
 package PageObjects;
 
-public class Order_firstPage {
+public class OrderFirstPage {
 
                                      //                     "Для кого самокат"
 

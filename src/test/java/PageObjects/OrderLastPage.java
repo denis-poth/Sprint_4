@@ -1,6 +1,6 @@
 package PageObjects;
 
-public class Order_lastPage {
+public class OrderLastPage {
 
                                                 //                "Всплывающие окна"
 

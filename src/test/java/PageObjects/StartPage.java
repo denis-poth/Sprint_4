@@ -23,5 +23,5 @@ public class StartPage {
                                                                         // 2. Оформление заказа
 
     public static final String TOP_ORDER_BUTTON = "//button[@class='Button_Button__ra12g']\n";  // Кнопка "Заказать", расположенная вверху страницы
-    public static final String BOTTOM_ORDER_BUTTON = "//button[@class='Button_Button__ra12g Button_Middle__1CSJM']\n";  // Кнопка "Заказать", расположенная внизу экрана
+    public static final String BOTTOM_ORDER_BUTTON = "//button[@class='Button_Button__ra12g Button_UltraBig__UU3Lp']\n";  // Кнопка "Заказать", расположенная внизу экрана
 }

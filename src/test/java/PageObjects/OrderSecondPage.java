@@ -1,6 +1,6 @@
 package PageObjects;
 
-public class Order_secondPage {
+public class OrderSecondPage {
 
                                             //           "Про Аренду"
 
